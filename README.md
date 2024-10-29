@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @TanishqRaval<br>👀 I’m interested in React,Java,Python,JavaScript,HTML,CSS,BootStrap,Firewall,SQL,Flutter,C,C++<br>🌱 I’m currently learning ...Full Stack with React native<br>📫 How to reach me @tanishqraval17@gmail.com
+👋 Hi, I’m @TanishqRaval<br>👀 I’m familiar with in React,Java,Python,JavaScript,HTML,CSS,BootStrap,Firewall,SQL,C,C++<br>🌱 I’m currently learning ...Full Stack with React native<br>📫 How to reach me @tanishqraval17@gmail.com
 
 
 ## 🌐 Socials:
